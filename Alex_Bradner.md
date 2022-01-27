@@ -13,7 +13,7 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 ## Overview
 
 * [Attributes](#attributes)
-* [Skills](#skills)
+* [Skills](#skills--qualifications)
 * [Experience](#experience)
 * [Projects & Impact](#projects--impact)
 * [Values](#values--philosophies)
@@ -27,15 +27,19 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 * Can drive / ride comfortably on either side of the road
 * Dexterity is my [dump stat](https://dnd4.fandom.com/wiki/Dump_stat)
 
-## Skills
+## Skills & Qualifications
+
+### University
+
+* BSc (Computer Science) - University of New South Wales Australia (2013)
 
 ### High Level
 
+* Software Engineering
 * Leadership (Technical Lead & Scrum master)
 * Architectural design
-* Experimentation-driven feature design
-
-* BSc (Computer Science) - University of New South Wales (Australia)
+* DevOps
+* Product feature design & research
 
 ### Technical Proficiencies & Experiences
 
