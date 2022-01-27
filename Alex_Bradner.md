@@ -58,6 +58,7 @@ Data Pipeline, aggregation & Search
 * Elastic Search
 * Algolia
 * DBT
+* Amazon Sagemaker
 
 DevOps
 
@@ -96,12 +97,12 @@ Sysadmin, QA Tester and finally Junior Engineer
 Technical Copywriter on the following mastheads:
 
 * PC Authority (Online, Magazine)
-* Atomic Maximum Powered Computing (Online, Magazine)
+* Atomic - Maximum Powered Computing (Online, Magazine)
 * ITNews (Online)
 
 #### Before 2008
 
-Various part time jobs including Customer Service operator, maths tutor and technical support
+Various part time jobs including customer service operator, maths tutor and technical support
 
 ### Recent Experience
 
@@ -173,6 +174,7 @@ Feel free to Ask me about one of these or throw me down the rabbit hole with som
 * Gaming: Board, Tabletop RPG, PC, Switch
 * Making (crappy) music
 * Sci-fi and fantasy epics
+* Being a dog parent
 
 ### Outside
 
