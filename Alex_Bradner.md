@@ -4,7 +4,7 @@
 
 This document is always accessible at [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
 
-Rather than printing or exporting this as a PDF, Please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
+Rather than printing or exporting this as a PDF, please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
 
 ## Contact me
 
@@ -67,30 +67,37 @@ DevOps
 
 ### Where I've worked
 
-**2017-Present** Airtasker  
+#### 2017-Present - Airtasker
+
 Multiple roles including:
 
 * Senior Engineer (Acquisition, International)
 * Acting Technical Lead (Tooling)
 * Technical Lead (Growth, Matching, International, Discovery)
 
-**2014-2017** Foogi Smart Scheduling  
+#### 2014-2017 - Foogi Smart Scheduling
+
 CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft
 
-**2012-2013** Central China Normal University  
+#### 2012-2013 - Central China Normal University
+
 English language teacher & Computer Science tutor (during exchange)
 
-**2010-2012** Intersect Australia  
+#### 2010-2012 - Intersect Australia
+
 Sysadmin, QA Tester and finally Junior Engineer
 
-**2008-2010** Haymarket Media  
+#### 2008-2010 - Haymarket Media
+
 Technical Copywriter on the following mastheads:
+
 * PC Authority (Online, Magazine)
 * Atomic Maximum Powered Computing (Online, Magazine)
 * ITNews (Online)
 
-**Before 2008**
-* Various part time jobs including Customer Service operator, maths tutor and technical support
+#### Before 2008
+
+Various part time jobs including Customer Service operator, maths tutor and technical support
 
 ### Recent Experience
 
@@ -131,7 +138,7 @@ Technical Copywriter on the following mastheads:
 * Write code for the eventual reader.
   * Be expressive, clear and accessible.
   * Optimise where relevant but make those decisions obvious and easy to understand.
-* Be kind. Uplift my peers and juniors to be their best
+* Be kind. Uplift your peers and juniors to be their best
 * Be aware of your biases. They can add colour to your perspective but don't let them harm others
 
 ## Hobbies & Interests
