@@ -1,13 +1,21 @@
-# Alex_Bradner.md
+*An evergreen CV of*
+
+# Alex Bradner 
+
+Rather than exporting this as a PDF, Please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document
+
+## Contact me
+
+[LinkedIn](https://www.linkedin.com/in/alexbradner/)
 
 ## Overview
 
-* Attributes
-* Skills
-* Experience
-* Projects & Impact
-* Values
-* A bit more about me
+* [Attributes](#attributes)
+* [Skills](#skills)
+* [Experience](#recent-experience)
+* [Projects & Impact](#projects--impact)
+* [Values](#values--philosophies)
+* [A bit more about me](#hobbies--interests)
 
 ## Attributes
 
@@ -15,6 +23,7 @@
 * Right to live & work in EU, AU, UK, NZ
 * 34, Male, He/Him
 * Can drive / ride comfortably on either side of the rode
+* Dexterity is my [dump stat](https://dnd4.fandom.com/wiki/Dump_stat)
 
 ## Skills
 
@@ -67,9 +76,10 @@ DevOps
 ## Projects & Impact
 
 * Airtasker SEO Engine
-  * The architectural backbone for this is still the
-* Two recommendation systems
-  * Providing real-time relevent task recommendations
+  * The architectural backbone for this is still the core of SEO landing page generation at airtasker - our primary acquisition channel in both growing and established markets
+* Two fundamentally different recommendation systems that have each produced major uplift in conversion from their launch:
+  * Providing real-time relevent task recommendations to taskers (workers) in a very fast-moving marketplace where seeing a task 5 minutes late can mean loss of a job
+  * Providing qualitative and quantitative recommendations of services to potential customers where little is known about the customer's intent beforehand
 * International Launches - 4 countries in different capacities
   * UK - Senior Engineer & Man with many hats post-launch
     * UX research
@@ -98,32 +108,48 @@ DevOps
 This is broad. The world is my niche and I can find something interesting in so many domains.
 Feel free to Ask me about one of these or throw me down the rabbit hole with something new and fascinating:
 
+### Technology & Engineering
+
 * Electronics & circuit design
 * 3D modelling & printing
 * Mechanical engineering & the future of manufacturing
 * Data modelling
 
+### The Mind & Body
+
 * Behavioural psychology & neurobiology/chemistry
 * Genetic expression, endocrinology & immunology
+
+### Social Impact
 
 * Political advocacy
 * Environmentalism
 * History
 
+### Downtime
+
 * Gaming: Board, Tabletop RPG, PC, Switch
 * Making (crappy) music
 * Sci-fi and fantasy epics
 
+### Outside
+
 * Growing green things
 * Camping and disconnecting
 * Agritech
+
+### Movement
 
 * Yoga
 * Cycling (Road, mountain and motorbike)
 * Swimming
 * Scuba diving
 
+### Creativity
+
 * Photography & videography
+
+### Money
 
 * Business Development
 * Financial & monetary systems incl Crypto
