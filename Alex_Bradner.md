@@ -14,7 +14,7 @@ Rather than printing or exporting this as a PDF, Please consider directly link t
 
 * [Attributes](#attributes)
 * [Skills](#skills)
-* [Experience](#recent-experience)
+* [Experience](#experience)
 * [Projects & Impact](#projects--impact)
 * [Values](#values--philosophies)
 * [A bit more about me](#hobbies--interests)
@@ -39,7 +39,7 @@ Rather than printing or exporting this as a PDF, Please consider directly link t
 
 ### Technical Proficiencies & Experiences
 
-Languages & Framework
+Languages & Frameworks
 
 * Ruby (incl Rails)
 * Kotlin (incl Springboot & Armeria)
@@ -63,7 +63,36 @@ DevOps
 * AWS
 * CircleCI (CI & CD)
 
-## Recent Experience
+## Experience
+
+### Where I've worked
+
+**2017-Present** Airtasker  
+Multiple roles including:
+
+* Senior Engineer (Acquisition, International)
+* Acting Technical Lead (Tooling)
+* Technical Lead (Growth, Matching, International, Discovery)
+
+**2014-2017** Foogi Smart Scheduling  
+CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft
+
+**2012-2013** Central China Normal University  
+English language teacher & Computer Science tutor (during exchange)
+
+**2010-2012** Intersect Australia  
+Sysadmin, QA Tester and finally Junior Engineer
+
+**2008-2010** Haymarket Media  
+Technical Copywriter on the following mastheads:
+* PC Authority (Online, Magazine)
+* Atomic Maximum Powered Computing (Online, Magazine)
+* ITNews (Online)
+
+**Before 2008**
+* Various part time jobs including Customer Service operator, maths tutor and technical support
+
+### Recent Experience
 
 * Team technical lead for 4 teams since 2018
 * SME organisational group (aka 'School') leader and force of change across 3 major disciplines
