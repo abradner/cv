@@ -162,6 +162,8 @@ Feel free to Ask me about one of these or throw me down the rabbit hole with som
 
 * Behavioural psychology & neurobiology/chemistry
 * Genetic expression, endocrinology & immunology
+* Mental health and disorders
+* Developments in mental health research
 
 ### Social Impact
 
