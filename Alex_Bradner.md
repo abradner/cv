@@ -1,8 +1,10 @@
 *An evergreen CV of*
 
-# Alex Bradner 
+# Alex Bradner
 
-Rather than exporting this as a PDF, Please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document
+This document is always accessible at [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
+
+Rather than printing or exporting this as a PDF, Please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
 
 ## Contact me
 
@@ -22,7 +24,7 @@ Rather than exporting this as a PDF, Please consider directly link to this file 
 * Citizen of Australia and Ireland
 * Right to live & work in EU, AU, UK, NZ
 * 34, Male, He/Him
-* Can drive / ride comfortably on either side of the rode
+* Can drive / ride comfortably on either side of the road
 * Dexterity is my [dump stat](https://dnd4.fandom.com/wiki/Dump_stat)
 
 ## Skills
