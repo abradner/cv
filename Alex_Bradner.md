@@ -25,7 +25,7 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 * Right to live & work in EU, AU, UK, NZ
 * 34, Male, He/Him
 * Can drive / ride comfortably on either side of the road
-* Dexterity is my [dump stat](https://dnd4.fandom.com/wiki/Dump_stat)
+* Dexterity is my [dump stat](https://tvtropes.org/pmwiki/pmwiki.php/Main/DumpStat)
 
 ## Skills & Qualifications
 
@@ -82,7 +82,8 @@ Multiple roles including:
 
 #### 2014-2017 - Foogi Smart Scheduling
 
-CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft
+CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft  
+A little more detail is available [here](https://alexbradner.com/#projects)
 
 #### 2012-2013 - Central China Normal University
 
@@ -149,7 +150,7 @@ Various part time jobs including customer service operator, maths tutor and tech
 ## Hobbies & Interests
 
 This is broad. The world is my niche and I can find something interesting in so many domains.
-Feel free to Ask me about one of these or throw me down the rabbit hole with something new and fascinating:
+Feel free to ask me about one of these or throw me down the rabbit hole with something new and fascinating:
 
 ### Technology & Engineering
 
