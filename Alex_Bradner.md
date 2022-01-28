@@ -25,7 +25,7 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 * Right to live & work in EU, AU, UK, NZ
 * 34, Male, He/Him
 * Can drive / ride comfortably on either side of the road
-* Dexterity is my [dump stat](https://tvtropes.org/pmwiki/pmwiki.php/Main/DumpStat)
+* Dexterity is my [dump stat](https://slangit.com/meaning/dump_stat)
 
 ## Skills & Qualifications
 
