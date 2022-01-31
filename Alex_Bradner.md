@@ -14,9 +14,9 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 
 * [Attributes](#attributes)
 * [Skills](#skills--qualifications)
+* [Values](#values--philosophies)
 * [Experience](#experience)
 * [Projects & Impact](#projects--impact)
-* [Values](#values--philosophies)
 * [A bit more about me](#hobbies--interests)
 
 ## Attributes
@@ -25,7 +25,8 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 * Right to live & work in EU, AU, UK, NZ
 * 34, Male, He/Him
 * Can drive / ride comfortably on either side of the road
-* Dexterity is my [dump stat](https://slangit.com/meaning/dump_stat)
+* I like to try my hand at anything (but dexterity is my [dump stat](https://slangit.com/meaning/dump_stat))
+* Weakness for good coffee, cheeses, kimchi, whiskey and other aromatic & fermented foods.
 
 ## Skills & Qualifications
 
@@ -67,6 +68,22 @@ DevOps
 * Prometheus & Grafana
 * AWS
 * CircleCI (CI & CD)
+
+## Values & Philosophies
+
+* Don't use black boxes - Understand the strengths and limitations of your tooling.
+* Hypothesize, validate and iterate. Ideally before any code is written.
+* Maximise customer impact - We build products and write software for them, not us.
+* Relatedly:
+  * Find opportunities for customer delight where possible.
+  * Understand both the opportunity cost and value of tradeoffs. Make tradeoffs aggresively if it directly serves impact.
+* Write code for the eventual reader.
+  * Be expressive, clear and accessible.
+  * Optimise where relevant but make those decisions obvious and easy to understand.
+* Be kind, clarify miscommunications and be willing to forgive.
+* Uplift your peers and juniors to be their best.
+* Be aware of your biases. They can add colour to your perspective but don't let them harm others.
+* Fostering diversity & inclusion is the responsibility of the already-included, not the diverse.
 
 ## Experience
 
@@ -132,20 +149,6 @@ Various part time jobs including customer service operator, maths tutor and tech
   * NZ & Singapore - Technical lead & acting product manager
   * USA - Technical lead, acting product & business operations manager
     * While all have provided major growth opportunities, delivering the US launch despite management hesitency allowed Airtasker to acquire & integrate a local services marketplace startup that is now the grass-roots backbone of our fastest growing market in the world
-
-## Values & Philosophies
-
-* Don't use black boxes - Understand the strengths and limitations of your tooling
-* Hypothesize, validate and iterate. Ideally before any code is written.
-* Maximise customer impact - We build products and write software for them, not us.
-* Relatedly:
-  * Find opportunities for customer delight where possible
-  * Understand the opportunity cost and value of tradeoffs. Make tradeoffs aggresively if it directly serves impact.
-* Write code for the eventual reader.
-  * Be expressive, clear and accessible.
-  * Optimise where relevant but make those decisions obvious and easy to understand.
-* Be kind. Uplift your peers and juniors to be their best
-* Be aware of your biases. They can add colour to your perspective but don't let them harm others
 
 ## Hobbies & Interests
 
