@@ -46,16 +46,19 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 
 Languages & Frameworks
 
+* TypeScript & Javascript with experience including:
+  * Node (Azure functions & AWS Lambdas)
+  * React (NextJS)
+  * React & React Native (using Expo)
 * Ruby (incl Rails)
 * Kotlin (incl Springboot & Armeria)
 * Python (incl Pandas, NumPy, SciPi)
-* TypeScript, Javascript (incl NodeJS, React)
 * GRPC Protobuf
 * There are others, but these I consider "Fresh"
 
 Data Pipeline, aggregation & Search
 
-* SQL (Postgres, Snowflake)
+* SQL (Postgres, Snowflake, Hasura)
 * Elastic Search
 * Algolia
 * DBT
@@ -67,6 +70,7 @@ DevOps
 * Terraform
 * Prometheus & Grafana
 * AWS
+* Azure
 * CircleCI (CI & CD)
 
 ## Values & Philosophies
@@ -89,14 +93,32 @@ DevOps
 
 ### Where I've worked
 
-#### 2017-Present - Airtasker
+#### Apr 2022-Now - Cheddar (x15 Ventures & CBA)
+
+Principal Engineer
+
+Top Tags:
+
+* Business: `startup` `fintech` `consumer` `b2b` `enterprise`
+* Technologies: `typescript` `react` `node` `azure` `ios` `sql` `hasura` `terraform`
+* Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `remote`
+
+[more details below](#recent-experience)
+#### 2017-Apr 2022 - Airtasker
 
 Multiple roles including:
 
-* Senior Engineer (Acquisition, International)
-* Acting Technical Lead (Tooling)
 * Technical Lead (Growth, Matching, International, Discovery)
+* Acting Technical Lead (Tooling)
+* Senior Engineer (Acquisition, International)
 
+Top Tags:
+
+* Business: `two-sided marketplace` `consumer` `growth` `startup` `international`
+* Technologies: `ruby` `rails` `kotlin` `python` `sql` `aws` `kubernetes/k8s`
+* Skills: `technical leadership` `scrum-master` `mentoring` `on-call` `remote`
+
+[more details below](#recent-experience)
 #### 2014-2017 - Foogi Smart Scheduling
 
 CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft  
@@ -123,6 +145,17 @@ Technical Copywriter on the following mastheads:
 Various part time jobs including customer service operator, maths tutor and technical support
 
 ### Recent Experience
+
+#### Cheddar
+
+* High level engineering architecture, design & strategy
+* Coordination with different functions within the business to ensure we are able to rapidly deliver and iterate impactful customer-facing changes
+* Day-to-day writing client & platform/service code to deliver features
+* Cultivating engineering culture and best practices in a fully remote & distributed team
+* Incident response, management and mitigation
+* More generally: working within the biggest bank in Australia and the rigour that requires
+
+#### Airtasker
 
 * Team technical lead for 4 teams since 2018
 * SME organisational group (aka 'School') leader and force of change across 3 major disciplines
