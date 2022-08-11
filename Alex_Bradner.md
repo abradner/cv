@@ -104,7 +104,7 @@ Top Tags:
 * Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `remote`
 
 [more details below](#recent-experience)
-#### 2017-Apr 2022 - Airtasker
+#### 2017-2022 - Airtasker
 
 Multiple roles including:
 
