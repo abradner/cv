@@ -2,9 +2,12 @@
 
 # Alex Bradner
 
-This document is always accessible at [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
+This document is always accessible at [cv.alexbradner.com](https://cv.alexbradner.com)
+or  [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
 
 Rather than printing or exporting this as a PDF, please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
+
+I've broken this document up into sections and it's unlikely you'll want to read it all in one sitting. Use the table of contents below to jump around.
 
 ## Contact me
 
@@ -23,7 +26,7 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 
 * Citizen of Australia and Ireland
 * Right to live & work in EU, AU, UK, NZ
-* 34, Male, He/Him
+* 36, Male, He/Him
 * Can drive / ride comfortably on either side of the road
 * I like to try my hand at anything (but dexterity is my [dump stat](https://slangit.com/meaning/dump_stat))
 * Weakness for good coffee, cheeses, kimchi, whiskey and other aromatic & fermented foods.
@@ -36,11 +39,11 @@ Rather than printing or exporting this as a PDF, please consider directly link t
 
 ### High Level
 
-* Software Engineering
-* Leadership (Technical Lead & Scrum master)
-* Architectural design
-* DevOps
-* Product feature design & research
+* Leadership (Engineering & Product)
+* Software Engineering incl DevOps
+* Architectural design (Software systems)
+* Product/feature discovery & UX research
+* SaaS Startups & Venture capital
 
 ### Technical Proficiencies & Experiences
 
@@ -73,29 +76,85 @@ DevOps
 * Azure
 * CircleCI (CI & CD)
 
+Misc
+
+* Certified Scrum Master
+* First Aid
+
 ## Values & Philosophies
 
+Toward People
+
+* Listen, understand, learn, grow.
+* Be kind, clarify miscommunications and be willing to forgive.
+* Uplift your peers and juniors to be their best.
+* Be gentle but firm with your convictions. At the same time be able to explain why you hold them.
+* Be aware of your biases. They can add colour to your perspective but don't let them harm others.
+* Fostering diversity & inclusion is the responsibility of the already-included, not the diverse.
+
+In Engineering
+
 * Don't use black boxes - Understand the strengths and limitations of your tooling.
+* Write code for the eventual reader.
+  * Be expressive, clear and accessible.
+  * Optimise where relevant but make those decisions obvious and easy to understand.
+
+In Business
+
+* Always ask 'Why?' (and don't stop until there is a satisfying explanation).
 * Hypothesize, validate and iterate. Ideally before any code is written.
 * Maximise customer impact - We build products and write software for them, not us.
 * Relatedly:
   * Find opportunities for customer delight where possible.
   * Understand both the opportunity cost and value of tradeoffs. Make tradeoffs aggresively if it directly serves impact.
-* Write code for the eventual reader.
-  * Be expressive, clear and accessible.
-  * Optimise where relevant but make those decisions obvious and easy to understand.
-* Be kind, clarify miscommunications and be willing to forgive.
-* Uplift your peers and juniors to be their best.
-* Be aware of your biases. They can add colour to your perspective but don't let them harm others.
-* Fostering diversity & inclusion is the responsibility of the already-included, not the diverse.
 
 ## Experience
 
 ### Where I've worked
 
-#### Apr 2022-Now - Cheddar (x15 Ventures & CBA)
+#### Nov 2023 - Now — Simplytics AI
 
-Principal Engineer
+> SME is awful at data-based decisions. Simplytics AI guides product teams to the right insights from customers’ behaviour
+> 
+> *Build and understand your analytics stack with a helping hand guiding you along the way. Receive insights that can be used to better drive customer engagement and retention. Ask the right questions and get meaningful answers.*
+> 
+> *It's Data Driven Decisions: Democratised.*
+> 
+> *Learn more at [simplytics.ai](https://simplytics.ai)*
+
+##### Founder & CEO
+
+Top Tags:
+
+* Business: `startup` `consumer` `b2b` `early-stage`
+* Technologies: `generative AI` `python` `typescript` `react` `node` `sql` `dbt` `snowflake` `aws` `k8s`
+* Skills: `leadership` `strategy` `customer development` `risk / mitigation` `product design` `remote` `governance`
+
+[more details below](#simplytics-ai)
+
+#### Sep 2022 - Nov 2023 — AirRobe
+
+> AirRobe is focussed on reducing the negative impacts of fast fashion by making buying and selling your pre-loved fashion painless and safe.
+
+As a three-sided marketplace (buyer, seller and theoriginal merchant partner), it's almost impossible to deliver a great experience for everyone given the natural conflict between all three parties, but understanding that razor's edge is what makes AirRobe the best marketplace for everyone (especially the environment) to experience the circular economy.
+
+##### Principal Engineer
+
+Top Tags:
+
+* Business: `startup` `three-sided-marketplace` `sustainability` `consumer` `b2b` `growth`
+* Technologies: `ruby` `rails` `typescript` `react` `node` `aws` `ios` `sql` `dbt` `snowflake` `terraform`
+* Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `product design` `remote`
+
+[more details below](#airrobe)
+
+#### Apr-Sep 2022 — Cheddar (x15 Ventures & CBA)
+
+> Cheddar was CBA's answer to Shopback, Cashrewards and other similar platforms. It had two key driving principals: Find and engage with a new audience (specifically Gen Z) for CBA & merchant partners, and provide that audience with a compelling shopping experience as a gateway to other CBA products and services.
+
+##### Principal Engineer
+
+While the business model was a well-trodden path, being an x15 venture allowed me to bring my startup experience to bear. I was building user-focussed product, training, mentoring and growing the engineering team all whilst navigating the complexities of working within one of the largest and most trusted enterprise brands in the country.
 
 Top Tags:
 
@@ -104,12 +163,15 @@ Top Tags:
 * Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `remote`
 
 [more details below](#recent-experience)
-#### 2017-2022 - Airtasker
 
-Multiple roles including:
+#### 2017-2022 — Airtasker
 
-* Technical Lead (Growth, Matching, International, Discovery)
-* Acting Technical Lead (Tooling)
+> Airtasker is the go-to place for getting something done (or maximising the value of from your skills and experience). As a high-paced services marketplace where each side has conflicting desires, Airtasker is the ultimate example of finely understanding and balancing all the customers' needs to create a trusted platform that delivers the best outcome for both sides.
+
+##### Multiple roles, including:
+
+* Technical Lead (Growth, Customer/Tasker Matching, International Markets, Services Promotion & Discovery)
+* Acting Technical Lead (Internal Tooling)
 * Senior Engineer (Acquisition, International)
 
 Top Tags:
@@ -119,20 +181,21 @@ Top Tags:
 * Skills: `technical leadership` `scrum-master` `mentoring` `on-call` `remote`
 
 [more details below](#recent-experience)
-#### 2014-2017 - Foogi Smart Scheduling
 
-CTO & Co-Founder of my own startup that successfully secured over 400k of seed funding and *almost* was acquired by Microsoft  
+#### 2014-2017 — Foogi Smart Scheduling
+
+CTO & Co-Founder of my own startup that successfully secured over US$400k of seed funding and *almost* was acquired by Microsoft  
 A little more detail is available [here](https://alexbradner.com/#projects)
 
-#### 2012-2013 - Central China Normal University
+#### 2012-2013 — Central China Normal University
 
 English language teacher & Computer Science tutor (during exchange)
 
-#### 2010-2012 - Intersect Australia
+#### 2010-2012 — Intersect Australia
 
 Sysadmin, QA Tester and finally Junior Engineer
 
-#### 2008-2010 - Haymarket Media
+#### 2008-2010 — Haymarket Media
 
 Technical Copywriter on the following mastheads:
 
@@ -145,6 +208,25 @@ Technical Copywriter on the following mastheads:
 Various part time jobs including customer service operator, maths tutor and technical support
 
 ### Recent Experience
+
+#### Simplytics AI
+
+* Founder - Building a business from Idea to MVP to paying customers (soon)
+* Customer & problem discovery
+* Data Driven Decisions Democratised. Build and understand your analytics stack with a helping hand guiding you along the way. Receive insights that can be used to better drive customer engagement and retention. Ask the right questions and get meaningful answers.
+* Building (from scratch):
+  * The entire product software stack
+  * Branding, marketing & SEO
+
+#### AirRobe
+
+* Head of Engineering, with a valued perspective on product design
+* Developed decision-making rigour in the product team to make decisions based on insights from our business' needs and customers' behaviour
+* Built and iterated on an end-to-end preferences & personalisation suite to turn on-platform customer behaviour into populated feeds and marketing emails based on taste and recent activity.
+* Worked closely with my team to foster areas of interest and build SMEs to create a diversity of expertise
+
+* payment gateways, stripe & fraud mitigation
+* Understanding, designing, building, and communicating the product changes that lead to the best outcomes for buyers, sellers and merchants
 
 #### Cheddar
 
@@ -169,6 +251,17 @@ Various part time jobs including customer service operator, maths tutor and tech
 
 ## Projects & Impact
 
+* AirRobe Personalisation & Recommendation Engines
+  * Challenge: Keep customers sticky by showing them things that we know they like
+  * Problem 1: We don't have a good understanding of what they like
+  * Problem 2: We don't have any mechanism to surface relevant things even if we did know.
+  * Outcome: Tooling that:
+    * tracks and weighs customer interactions (purchases, wishlists, views, searches etc) with different items in our inventory, 
+    * aggregates interest based on numerous facets (eg brand, department, size, colour, material etc)
+    * creates interest graphs for each user
+    * uses the interest graph to query our latest inventory
+    * presents a curated selection to customers in a number of different formats (email, feeds etc)
+  * Delivered 10x engagement over manually curated emails and feeds
 * Airtasker SEO Engine
   * The architectural backbone for this is still the core of SEO landing page generation at airtasker - our primary acquisition channel in both growing and established markets
 * Two fundamentally different recommendation systems that have each produced major uplift in conversion from their launch:
@@ -190,8 +283,10 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 
 ### Technology & Engineering
 
+* Generative AI (designing, building, training and applying)
 * Electronics & circuit design
-* 3D modelling & printing
+* 3D CAD modelling (Fusion 360, openSCAD, SolidWorks)
+* Physical prototyping & 3D printing (FDM & Resin-based)
 * Mechanical engineering & the future of manufacturing
 * Data modelling
 
@@ -223,7 +318,7 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 
 ### Movement
 
-* Yoga
+* Yoga (Yes I'm a walking stereotype sometimes. What's your point?)
 * Cycling (Road, mountain and motorbike)
 * Swimming
 * Scuba diving
@@ -235,4 +330,4 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 ### Money
 
 * Business Development
-* Financial & monetary systems incl Crypto
+* Financial & monetary systems, macro economics and new systems incl CBDC & Crypto
