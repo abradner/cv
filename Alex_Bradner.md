@@ -43,6 +43,7 @@ I've broken this document up into sections and it's unlikely you'll want to read
 * Software Engineering incl DevOps
 * Architectural design (Software systems)
 * Product/feature discovery & UX research
+* Data Science and warehousing including ML & AI model creation & training
 * SaaS Startups & Venture capital
 
 ### Technical Proficiencies & Experiences
@@ -55,7 +56,7 @@ Languages & Frameworks
   * React & React Native (using Expo)
 * Ruby (incl Rails)
 * Kotlin (incl Springboot & Armeria)
-* Python (incl Pandas, NumPy, SciPi)
+* Python (incl Tensorflow, Pandas, NumPy, SciPi)
 * GRPC Protobuf
 * There are others, but these I consider "Fresh"
 
