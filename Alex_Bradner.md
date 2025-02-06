@@ -277,7 +277,7 @@ My team is responsible for smart-linking between products, enabling rich interac
 
 ###### Craftsmanship
 
-* Implemented significant changes to Tier 1 & 2 services, finding opportunities to reduce the risk of complex changes whilest maintaining velocity.
+* Implemented significant changes to Tier 1 & 2 services, finding opportunities to reduce the risk of complex changes whilst maintaining velocity.
 
 ###### Direction & Impact
 
