@@ -2,23 +2,43 @@
 
 # Alex Bradner
 
-This document is always accessible at [cv.alexbradner.com](https://cv.alexbradner.com)
-or [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
+**This document is always accessible at [cv.alexbradner.com](https://cv.alexbradner.com)** (or [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md) )
 
-Rather than printing or exporting this as a PDF, please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
+Rather than printing or exporting this as a PDF, **please consider directly link to this URL**. You'll have the freshest version of this evergreen document.
 
-I've broken this document up into sections and it's unlikely you'll want to read it all in one sitting. Use the table of contents below to jump around.
+I've broken this document up into sections and it's unlikely you'll want to read it all in one sitting. **Use the table of contents below to jump around.**
 
 ## Contact me
 
-[LinkedIn](https://www.linkedin.com/in/alexbradner/)
+[LinkedIn](https://www.linkedin.com/in/alexbradner/) is the best way to reach me
 
-## Overview / Contents
+## Overview
+
+### TL;DR <small>// too long; didn't read</small>
+
+* [Current Employment](#aug-2024---now--atlassian-principal-engineer)
+* [Technical Skills](#technical-proficiencies--experiences)
+
+My expertise is spread across these pillars:
+* **Leadership** (Engineering & Product)
+* **Software Engineering** (Modern technologies, from bare metal to customer, including DevOps)
+* **Architectural design** (Software systems)
+* **Product Devlopment** (Product/feature discovery & UX research)
+* **Data Science** (Insight generation, Warehousing, ML & AI model creation & training)
+* **Startups** (SaaS Startups, Business Administration & Venture Capital)
+
+More detail in the sections below:
+
+### Contents
 
 * [Attributes](#attributes)
 * [Skills](#skills--qualifications)
+  * [Technical Skills](#technical-proficiencies--experiences)
 * [Values](#values--philosophies)
 * [My Experience](#my-experience)
+  * [Current Employment (quick glance)](#aug-2024---now--atlassian-principal-engineer)
+  * [Past Roles](#nov-2023---now--simplytics-ai-founder)
+  * [Digging Deeper into Details](#recent-experience---details)
 * [Peer & Manager Feedback](#recent-feedback)
 * [Other Projects & Impact](#other-projects--impact)
 * [A bit more about me](#hobbies--interests)
@@ -37,15 +57,6 @@ I've broken this document up into sections and it's unlikely you'll want to read
 ### University
 
 * BSc (Computer Science) - University of New South Wales Australia (2013)
-
-### High Level
-
-* **Leadership** (Engineering & Product)
-* **Software Engineering** (including DevOps)
-* **Architectural design** (Software systems)
-* **Product Devlopment** (Product/feature discovery & UX research)
-* **Data Science** (Insight generation, Warehousing, ML & AI model creation & training)
-* **Startups** (SaaS Startups, Business Administration & Venture Capital)
 
 ### Technical Proficiencies & Experiences
 
@@ -91,7 +102,7 @@ I've broken this document up into sections and it's unlikely you'll want to read
 
 ## Values & Philosophies
 
-Toward People
+### Toward People
 
 * Listen, understand, learn, grow.
 * Be kind, clarify miscommunications and be willing to forgive.
@@ -100,14 +111,14 @@ Toward People
 * Be aware of your biases. They can add colour to your perspective but don't let them harm others.
 * Fostering diversity & inclusion is the responsibility of the already-included, not the diverse.
 
-In Engineering
+### In Engineering
 
 * Don't use black boxes - Understand the strengths and limitations of your tooling.
 * Write code for the eventual reader.
   * Be expressive, clear and accessible.
   * Optimise where relevant but make those decisions obvious and easy to understand.
 
-In Business
+### In Business
 
 * Always ask 'Why?' (and don't stop until there is a satisfying explanation).
 * Hypothesize, validate and iterate. Ideally before any code is written.
