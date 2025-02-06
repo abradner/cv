@@ -357,7 +357,8 @@ architectural adaptations to our services, all of which he investigated and vali
 incremental solution delivery proceeds without a hitch as planned.
 >
 > Outside of this direct project, Alex consistently provides insightful feedback drawing on his wealth of experience as well as to many other people’s \[*proposed project designs and architecture*]. Amazing work!
--- R
+> 
+> -- R
 
 > Alex is a strong engineer who is great at collaboration and finding scalable solutions to complex problems.
 >
