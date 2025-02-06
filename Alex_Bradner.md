@@ -1,12 +1,11 @@
-*An evergreen CV of*
-
+*An evergreen CV of*  
 # Alex Bradner
 
 > ℹ️ **This document is always accessible at [cv.alexbradner.com](https://cv.alexbradner.com)** (or [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md))  
 Rather than printing or exporting this as a [PDF](https://raw.githubusercontent.com/abradner/cv/refs/heads/main/Alex_Bradner.pdf), **please consider directly linking to the URL above**. You'll have the freshest version of this evergreen document.  
 I've broken this document up into sections and it's unlikely you'll want to read it all in one sitting. **Use the table of contents below to jump around.**
 >
-> If you're viewing this on Github, click <svg aria-hidden="true" focusable="false" class="octicon octicon-list-unordered" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" style="display:inline-block;user-select:none;vertical-align:text-bottom;overflow:visible"><path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg> in the top right of this document for easier navigation
+> If you're viewing this on Github, click ![Outline](assets/outline.png) in the top right of this document for easier navigation
 ## Contact me
 
 [LinkedIn](https://www.linkedin.com/in/alexbradner/) is the best way to reach me
