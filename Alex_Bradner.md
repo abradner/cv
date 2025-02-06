@@ -3,7 +3,7 @@
 # Alex Bradner
 
 This document is always accessible at [cv.alexbradner.com](https://cv.alexbradner.com)
-or  [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
+or [github.com/abradner/cv/blob/main/Alex_Bradner.md](https://github.com/abradner/cv/blob/main/Alex_Bradner.md)
 
 Rather than printing or exporting this as a PDF, please consider directly link to this file within the repo. You'll have the freshest version of this evergreen document.
 
@@ -13,23 +13,24 @@ I've broken this document up into sections and it's unlikely you'll want to read
 
 [LinkedIn](https://www.linkedin.com/in/alexbradner/)
 
-## Overview
+## Overview / Contents
 
 * [Attributes](#attributes)
 * [Skills](#skills--qualifications)
 * [Values](#values--philosophies)
-* [Experience](#experience)
-* [Projects & Impact](#projects--impact)
+* [My Experience](#my-experience)
+* [Peer & Manager Feedback](#recent-feedback)
+* [Other Projects & Impact](#other-projects--impact)
 * [A bit more about me](#hobbies--interests)
 
 ## Attributes
 
 * Citizen of Australia and Ireland
 * Right to live & work in EU, AU, UK, NZ
-* 36, Male, He/Him
+* 37, Male (He/Him)
 * Can drive / ride comfortably on either side of the road
 * I like to try my hand at anything (but dexterity is my [dump stat](https://slangit.com/meaning/dump_stat))
-* Weakness for good coffee, cheeses, kimchi, whiskey and other aromatic & fermented foods.
+* Weakness for good coffee, cheeses, and most aromatic & fermented foods (kimchi, kombucha, miso, wine, whiskey... you get the idea)
 
 ## Skills & Qualifications
 
@@ -39,45 +40,51 @@ I've broken this document up into sections and it's unlikely you'll want to read
 
 ### High Level
 
-* Leadership (Engineering & Product)
-* Software Engineering incl DevOps
-* Architectural design (Software systems)
-* Product/feature discovery & UX research
-* Data Science and warehousing including ML & AI model creation & training
-* SaaS Startups & Venture capital
+* **Leadership** (Engineering & Product)
+* **Software Engineering** (including DevOps)
+* **Architectural design** (Software systems)
+* **Product Devlopment** (Product/feature discovery & UX research)
+* **Data Science** (Insight generation, Warehousing, ML & AI model creation & training)
+* **Startups** (SaaS Startups, Business Administration & Venture Capital)
 
 ### Technical Proficiencies & Experiences
 
-Languages & Frameworks
+#### Languages & Frameworks
 
 * TypeScript & Javascript with experience including:
   * Node (Azure functions & AWS Lambdas)
   * React (NextJS)
   * React & React Native (using Expo)
+* Kotlin & JVM (incl Springboot & Armeria)
 * Ruby (incl Rails)
-* Kotlin (incl Springboot & Armeria)
 * Python (incl Tensorflow, Pandas, NumPy, SciPi)
-* GRPC Protobuf
 * There are others, but these I consider "Fresh"
 
-Data Pipeline, aggregation & Search
+#### Technologies
 
+* Docker & Kubernetes
 * SQL (Postgres, Snowflake, Hasura)
+* GraphQL & REST API Development
+* GRPC Protobuf
+
+#### Data Pipeline, aggregation & Search
+
 * Elastic Search
-* Algolia
+* Algolia / Search.io
+* Splunk
 * DBT
 * Amazon Sagemaker
 
-DevOps
+#### DevOps
 
-* Docker & Kubernetes
-* Terraform
-* Prometheus & Grafana
 * AWS
 * Azure
+* Spinnaker CD
 * CircleCI (CI & CD)
+* Prometheus & Grafana
+* Terraform
 
-Misc
+#### Misc
 
 * Certified Scrum Master
 * First Aid
@@ -109,11 +116,34 @@ In Business
   * Find opportunities for customer delight where possible.
   * Understand both the opportunity cost and value of tradeoffs. Make tradeoffs aggresively if it directly serves impact.
 
-## Experience
+## My Experience
 
-### Where I've worked
+### Where I've worked (at a glance)
 
-#### Nov 2023 - Now — Simplytics AI
+#### Aug 2024 - Now — Atlassian (Principal Engineer)
+
+> You've used Atlassian products before – most likely Jira & Confluence, maybe Trello or Loom – but let me take you behind the curtain where I can:
+
+As a remote-first workplace serving organisations of all sizes (from SMB to government enterprise), Atlassian focuses on helping teams get work done.
+
+I’ve been providing engineering expertise and leadership as a Principal Engineer within Atlassian’s Teamwork Platform, where we build the behind-the-scenes technology that seamlessly connects Jira, Confluence, and other Atlassian tools (plus third-party apps).
+
+This work allows users to embed and interact with content across products without juggling multiple windows or losing context, and it creates a rich knowledge graph that fuels our AI capabilities.
+
+##### More details below
+
+* [My role and experience](#atlassian)
+* [Recent peer feedback](#recent-feedback)
+
+Top Tags:
+
+* Business: `enterprise`, `remote-first`, `productivity`, `b2b`, `platform`
+* Tools: `jira`, `confluence`, `generative AI`, `smartlinking`
+* Technologies: `kotlin`, `typescript`, `javascript`, `react`, `java`, `aws`, `monoliths`, `microservices`
+* Skills: `team formation`, `team managment`, `strategy`, `roadmapping`, `achitectural design`, `problem solving`, `risk management / mitigation`, `remote`
+
+
+#### Nov 2023 - Now — Simplytics AI (Founder)
 
 > SME is awful at data-based decisions. Simplytics AI guides product teams to the right insights from customers’ behaviour
 > 
@@ -127,29 +157,27 @@ In Business
 
 Top Tags:
 
-* Business: `startup` `consumer` `b2b` `early-stage`
-* Technologies: `generative AI` `python` `typescript` `react` `node` `sql` `dbt` `snowflake` `aws` `k8s`
-* Skills: `leadership` `strategy` `customer development` `risk / mitigation` `product design` `remote` `governance`
+* Business: `startup`, `consumer`, `b2b`, `early-stage`, `remote-first`
+* Technologies: `generative AI`, `python`, `typescript`, `react`, `node`, `sql`, `dbt`, `snowflake`, `aws`, `k8s`
+* Skills: `leadership`, `strategy`, `customer development`, `risk management`, `product design`, `remote`, `governance`
 
-[more details below](#simplytics-ai)
+**more details [below](#simplytics-ai)**
 
-#### Sep 2022 - Nov 2023 — AirRobe
+#### Sep 2022 - Nov 2023 — AirRobe (Principal Engineer)
 
 > AirRobe is focussed on reducing the negative impacts of fast fashion by making buying and selling your pre-loved fashion painless and safe.
 
 As a three-sided marketplace (buyer, seller and theoriginal merchant partner), it's almost impossible to deliver a great experience for everyone given the natural conflict between all three parties, but understanding that razor's edge is what makes AirRobe the best marketplace for everyone (especially the environment) to experience the circular economy.
 
-##### Principal Engineer
-
 Top Tags:
 
-* Business: `startup` `three-sided-marketplace` `sustainability` `consumer` `b2b` `growth`
-* Technologies: `ruby` `rails` `typescript` `react` `node` `aws` `ios` `sql` `dbt` `snowflake` `terraform`
-* Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `product design` `remote`
+* Business: `startup`, `three-sided-marketplace`, `sustainability`, `consumer`, `b2b`, `growth`, `remote-first`
+* Technologies: `ruby`, `rails`, `typescript`, `react`, `node`, `aws`, `ios`, `sql`, `dbt`, `snowflake`, `terraform`
+* Skills: `leadership`, `strategy`, `mentoring`, `risk management / mitigation`, `product design`, `remote`
 
-[more details below](#airrobe)
+**more details [below](#airrobe)**
 
-#### Apr-Sep 2022 — Cheddar (x15 Ventures & CBA)
+#### Apr-Sep 2022 — CBA / x15 Ventures: Cheddar  (Principal Engineer)
 
 > Cheddar was CBA's answer to Shopback, Cashrewards and other similar platforms. It had two key driving principals: Find and engage with a new audience (specifically Gen Z) for CBA & merchant partners, and provide that audience with a compelling shopping experience as a gateway to other CBA products and services.
 
@@ -159,17 +187,17 @@ While the business model was a well-trodden path, being an x15 venture allowed m
 
 Top Tags:
 
-* Business: `startup` `fintech` `consumer` `b2b` `enterprise`
-* Technologies: `typescript` `react` `node` `azure` `ios` `sql` `hasura` `terraform`
-* Skills: `leadership` `strategy` `mentoring` `risk / mitigation` `remote`
+* Business: `startup`, `fintech`, `consumer`, `b2b`, `enterprise`, `remote-first`
+* Technologies: `typescript`, `react`, `node`, `azure`, `ios`, `sql`, `hasura`, `terraform`
+* Skills: `leadership`, `strategy`, `mentoring`, `risk / mitigation`, `remote`
 
-[more details below](#recent-experience)
+**more details [below](#recent-experience---details)**
 
-#### 2017-2022 — Airtasker
+#### 2017-2022 — Airtasker (Multiple roles)
 
 > Airtasker is the go-to place for getting something done (or maximising the value of from your skills and experience). As a high-paced services marketplace where each side has conflicting desires, Airtasker is the ultimate example of finely understanding and balancing all the customers' needs to create a trusted platform that delivers the best outcome for both sides.
 
-##### Multiple roles, including:
+##### Roles including
 
 * Technical Lead (Growth, Customer/Tasker Matching, International Markets, Services Promotion & Discovery)
 * Acting Technical Lead (Internal Tooling)
@@ -177,11 +205,11 @@ Top Tags:
 
 Top Tags:
 
-* Business: `two-sided marketplace` `consumer` `growth` `startup` `international`
-* Technologies: `ruby` `rails` `kotlin` `python` `sql` `aws` `kubernetes/k8s`
-* Skills: `technical leadership` `scrum-master` `mentoring` `on-call` `remote`
+* Business: `two-sided marketplace`, `consumer`, `growth`, `startup`, `international`
+* Technologies: `ruby`, `rails`, `kotlin`, `python`, `sql`, `aws`, `kubernetes/k8s`
+* Skills: `technical leadership`, `scrum-master`, `mentoring`, `on-call`, `remote`
 
-[more details below](#recent-experience)
+**more details [below](#recent-experience---details)**
 
 #### 2014-2017 — Foogi Smart Scheduling
 
@@ -208,7 +236,52 @@ Technical Copywriter on the following mastheads:
 
 Various part time jobs including customer service operator, maths tutor and technical support
 
-### Recent Experience
+### Recent Experience - Details
+
+#### Atlassian
+
+Continued from [above](#aug-2024---now--atlassian-principal-engineer)
+
+My tenure so far has been short, but I have been exposed to (and required to take responsibility for) many concerns in domains across the entire company.
+
+My team is responsible for smart-linking between products, enabling rich interactions and content association across both the Atlassian ecosystem and any relevant third-party datasources.
+
+> ##### ℹ️ What's a smart link?
+>
+> A rich link to another resource (a page, ticket, file, figma design, etc) built from pasting a simple url.
+>
+> It not only provides the user with the ***right amount of information*** where they need it, it provides a ***context-rich connection*** between these two resources allowing AI assitive tools (in this case Atlassian's Rovo) to ***build better knowledge and provide better answers***.
+>
+> e.g.
+>
+> <a href="#simplytics-ai"><img src="./assets/smartlink-simplytics.png" width="225px"></a>
+
+##### My Role
+
+###### Leadership & People Management
+
+* Immediately took on leadership responsibilities of Engineering Manager for a 15-person team during a parental leave
+* Reformed the team, normed and restablised processes after major org restructure on day 0 (during onboarding week)
+* Mentored junior and senior engineers through regular feedback, architecture and code reviews, pairing and sparring sessions.
+
+###### Craftsmanship
+
+* Implemented significant changes to Tier 1 & 2 services, finding opportunities to reduce the risk of complex changes whilest maintaining velocity.
+
+###### Direction & Impact
+
+* Developed a deep understanding in many unfamiliar domains, allowing me to make better, more impactful decisions.
+* Drove architecture discussions to improve platform capabilities driven by both internal and external customers' needs.
+* Delivered key improvements informed by these architectural discussions, allowing new customers to consume the platform.
+* Planned coarse and fine-grained engineering roadmaps, optimising for impact and risk mitigation.
+
+###### Breadth of Domain
+
+* Worked with engineering teams and contributed to codebases across multiple product domains (Jira, Confluence, Bitbucket, Rovo, Teamwork Platform) in order to balance and advocate for the needs of customers and stakeholders
+* Provided OnCall support to stakeholders in these domains to allow them to contribute functionality to our platform
+* Worked to ensure our software was and continued to be US Government FedRAMP compliant
+
+[Recent peer feedback](#recent-feedback) available below
 
 #### Simplytics AI
 
@@ -250,7 +323,54 @@ Various part time jobs including customer service operator, maths tutor and tech
   * International Expansion (incl operational concerns, platform localisation and nitty gritty like timezones and GIS)
   * Data pipelines, recommendation engines, search & dicovery
 
-## Projects & Impact
+## Recent Feedback
+
+From Latest Atlassian Feedback Cycle - Mid Jan 2025
+
+(Only \[*modifications*] are to remove sensitive or paraphrase context-dependent information. Names are surpressed but available on request)
+
+> I had the pleasure of working with Alex on the service consolidation project last quarter and was impressed by the strengths he brought to the table.
+>
+> **Quick Learner:** Despite joining Atlassian recently, Alex quickly familiarised himself with our service capabilities, including \[*services across five domains*]. His rapid onboarding was instrumental in framing solutions, addressing incidents, and providing valuable ad-hoc feedback in the channel.
+>
+> **Scalability-Focused Solutions:** Alex demonstrated a strong Principal Engineer mindset, proposing a solution for \[*a top-line project*] that not only addressed the immediate challenges but also considered future scalability. This forward-thinking approach ensured the project’s long-term success and highlighted the importance of keeping the bigger picture in mind — a valuable learning for me personally.
+>
+> Alex’s adaptability and strategic thinking were pivotal, and I look forward in seeing the project reach its final goal.
+>
+> -- N
+
+> Alex has been driving significant impact right after joining, demonstrating his capabilities in owning the technical evolution of our systems aligned with department goals.
+>
+> He has been navigating the challenging migration of \[*internal services*] as we consolidate these services. He has shown strong domain expertise through making necessary >
+architectural adaptations to our services, all of which he investigated and validated prior, in a short timeframe.
+>
+> Furthermore, he has directly delivered many complex changes and provided well thought out advice and timely feedback to others including myself on the project to ensure >
+incremental solution delivery proceeds without a hitch as planned.
+>
+> Outside of this direct project, Alex consistently provides insightful feedback drawing on his wealth of experience as well as to many other people’s \[*proposed project designs and architecture*]. Amazing work!
+-- R
+
+> Alex is a strong engineer who is great at collaboration and finding scalable solutions to complex problems.
+>
+> **PROJECT IMPACT**; **DIRECTION**
+>
+> Alex has been driving “Service reduction” project to reduce the cost of Smart Links services. During the project, Alex proposed a well thought-through approach for integrating smart link \[*business logic*] into \[*a fit-for-purpose alternative service*].
+>
+> He suggested a scalable solution for complex use-cases that will benefit not only this project, but further projects and teams that need to orchestrate \[*business logic behaviours*]. He ensured changes are being delivered incrementally, and promptly escalated risks and issues. Notably, Alex added “stub“ actions and functionality to define the architecture of the solution which helped to parallelise the work for engineers on his team.
+>
+> **TECHNICAL PROFICIENCY**
+>
+> Alex showed great technical proficiency in the code contributions to \[*replacement service*], leading not only his team, but also \[*a sister team*] team by example. His changes demonstrated deep knowledge of kotlin, design patterns and engineering best-practices.
+>
+> -- M
+
+> Joining the team during org and team changes, Alex played a key role in ensuring the team will run smoothly in the new format. He collaborated with principal engineers to make sure we have the right processes in place, \[*driving multiple team rituals*] and collaborated on the Q2 roadmap.
+>
+> Alex has brought to my attention several instances within \[*internal services*] where we are not adhering to best practices, such as buried business logic and circular references. He suggested organizing a session with the team, and I believe this could have a substantial impact by proposing alternatives that would enhance the maintainability of \[*internal services*].
+>
+> -- A
+
+## Other Projects & Impact
 
 * AirRobe Personalisation & Recommendation Engines
   * Challenge: Keep customers sticky by showing them things that we know they like
@@ -289,6 +409,8 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 * 3D CAD modelling (Fusion 360, openSCAD, SolidWorks)
 * Physical prototyping & 3D printing (FDM & Resin-based)
 * Mechanical engineering & the future of manufacturing
+* Home automation
+* Self-hosted SaaS
 * Data modelling
 
 ### The Mind & Body
@@ -306,9 +428,9 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 
 ### Downtime
 
+* Reading / watching: Sci-fi and fantasy epics
 * Gaming: Board, Tabletop RPG, PC, Switch
 * Making (crappy) music
-* Sci-fi and fantasy epics
 * Being a dog parent
 
 ### Outside
@@ -327,8 +449,3 @@ Feel free to ask me about one of these or throw me down the rabbit hole with som
 ### Creativity
 
 * Photography & videography
-
-### Money
-
-* Business Development
-* Financial & monetary systems, macro economics and new systems incl CBDC & Crypto
